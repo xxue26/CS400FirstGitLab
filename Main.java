@@ -1,3 +1,8 @@
+// == CS400 Spring 2024 File Header Information ==
+// Name: xinyu xue
+// Email: <xxue26 @wisc.edu email address>
+// Lecturer:
+// Notes to Grader:
 /*
  * Test the use of the Color method
  */
